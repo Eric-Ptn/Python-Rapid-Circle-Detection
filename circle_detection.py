@@ -27,6 +27,7 @@ class circleCounter:
     # just a list of class variables will be declared later
 
     def __init__(self):
+        self.IMAGE = None
         self.SAVE_PATH = None
         self.IMAGE_PATH = None
         self.IMAGE_NAME = None
